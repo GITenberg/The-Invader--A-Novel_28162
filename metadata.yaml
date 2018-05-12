@@ -1,0 +1,29 @@
+_repo: The-Invader--A-Novel_28162
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woods, Margaret L. (Margaret Louisa)
+    alias: Woods, M. L. (Margaret Louisa)
+    birthdate: 1856
+    deathdate: 1945
+    gutenberg_agent_id: '33171'
+    url: http://www.gutenberg.org/2009/agents/33171
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Louisa_Woods
+description: ''
+gutenberg_issued: '2009-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28162'
+  lccn: 07017049
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Multiple personality -- Fiction'
+- !lcc 'PR'
+title: 'The Invader: A Novel'
+url: http://www.gutenberg.org/ebooks/28162
